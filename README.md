@@ -22,7 +22,7 @@
 
 The recommended way to install is with Composer.
 
-    composer require morrislaptop/firestore-php
+    composer require chalamministries/firestore-php
 
 ## Usage
 
@@ -32,7 +32,7 @@ Sample usage:
 
 ```php
 
-use Morrislaptop\Firestore\Factory;
+use Chalamministries\Firestore\Factory;
 use Kreait\Firebase\ServiceAccount;
 
 // This assumes that you have placed the Firebase credentials in the same directory
